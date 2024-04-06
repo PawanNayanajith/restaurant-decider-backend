@@ -133,7 +133,7 @@ Content-Type: application/json
 ```
 
 ### End a Session
-```htt
+```http
 POST /sessions/{session_id}/end
 ```
 
