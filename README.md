@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-- Java Development Kit (JDK) installed on your system
+- Java Development Kit (JDK) Version 17 installed on your system
 - Maven build tool installed on your system
 - MySQL Database installed and configured ```(update MySQL properties in application.properties file as required)```
 
