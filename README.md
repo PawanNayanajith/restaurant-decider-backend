@@ -11,12 +11,12 @@
 1. Clone the Restaurant Decider application repository from GitHub:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/PawanNayanajith/restaurant-decider-backend.git
 
 2. Navigate to the project directory:
 
     ```bash
-    cd restaurant.decider
+    cd restaurant-decider-backend
 
 3. Build the project using Maven:
 
